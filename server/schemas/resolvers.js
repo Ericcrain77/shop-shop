@@ -14,6 +14,7 @@ const resolvers = {
       if (category) {
         params.category = category;
       }
+
       if (name) {
         params.name = {
           $regex: name

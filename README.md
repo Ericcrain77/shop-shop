@@ -1,7 +1,7 @@
 # Shop-Shop
 
 ## Deployed Application
-[Heroku Link]()
+[Heroku Link](https://guarded-headland-77866.herokuapp.com/)
 
 [Github Link](https://github.com/Ericcrain77/shop-shop)
 
@@ -16,14 +16,17 @@
 * [Questions](#questions)
 
 ## Description
-
+An E-Commerce MERN Stack project that utilizes Redux instead of the React Context API to manage the Global State. 
 
 
 ## USER STORY
+AS a senior engineer working on an e-commerce platform
 
+I WANT my platform to use Redux to manage global state instead of the Context API
+
+SO THAT my website's state management is taken out of the React ecosystem
 
 ## Screenshots
-
 
 ![]()
 
