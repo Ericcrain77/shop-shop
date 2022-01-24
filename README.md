@@ -28,8 +28,14 @@ I WANT my platform to use Redux to manage global state instead of the Context AP
 SO THAT my website's state management is taken out of the React ecosystem
 
 ## Screenshots
+Sign Up Page
+![Sign Up Page](./assets/images/Signup.jpg)
 
-![]()
+Login Page
+![Login Page](./assets/images/Login)
+
+Landing Page with Cart
+![Landing Page with Cart](./assets/images/Landing)
 
 ## Technologies
 This application utilizes the following:
