@@ -39,6 +39,16 @@ SO THAT my website's state management is taken out of the React ecosystem
 
 ## Technologies
 This application utilizes the following:
+* concurrently
+* apollo server
+* bcrypt
+* express
+* graphql
+* jsonwebtoken
+* jwt-decode
+* mongoose
+* stripe
+* nodemon
 
 
 ## Questions
