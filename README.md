@@ -32,10 +32,10 @@ Sign Up Page
 ![Sign Up Page](./assets/images/Signup.jpg)
 
 Login Page
-![Login Page](./assets/images/Login)
+![Login Page](./assets/images/Login.jpg)
 
 Landing Page with Cart
-![Landing Page with Cart](./assets/images/Landing)
+![Landing Page with Cart](./assets/images/Landing.jpg)
 
 ## Technologies
 This application utilizes the following:
