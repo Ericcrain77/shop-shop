@@ -3,6 +3,7 @@
 ## Deployed Application
 [Heroku Link](https://guarded-headland-77866.herokuapp.com/)
 
+## GitHub Repository
 [Github Link](https://github.com/Ericcrain77/shop-shop)
 
 ## Licensing
